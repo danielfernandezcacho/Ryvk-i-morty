@@ -1,1 +1,1 @@
-# Ryvk-i-morty
+# Rick-i-Morty
